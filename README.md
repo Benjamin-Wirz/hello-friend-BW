@@ -151,7 +151,7 @@ This will clone the repository directly to the `themes/hello-friend` directory.
 ### Install theme as a submodule
 
 ```bash
-git submodule add -f https://github.com/panr/hugo-theme-hello-friend.git themes/hello-friend
+git submodule add -f https://github.com/Benjamin-Wirz/hello-friend-BW.git themes/hello-friend
 ```
 
 This will install the repository as a sumbodule in the `themes/hello-friend` directory.
